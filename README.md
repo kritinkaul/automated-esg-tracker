@@ -2,6 +2,8 @@
 
 A comprehensive, real-time ESG (Environmental, Social, Governance) data tracking dashboard built with Streamlit, featuring advanced analytics, email alerts, and multi-source data integration.
 
+🚀Live Demo: https://esgtracker.streamlit.app/
+
 ## 🚀 Features
 
 ### 📊 **Real-Time Data Integration**
